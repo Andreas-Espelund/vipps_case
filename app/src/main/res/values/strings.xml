@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Country finder</string>
+    <string name="error_message">Search for a country</string>
+    <string name="space" />
+    <string name="search">Search</string>
+</resources>
