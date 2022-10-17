@@ -11,6 +11,7 @@
         android:layout_width="match_parent"
         android:layout_height="64dp"
         android:id="@+id/search_bar"
+        android:inputType="text"
         android:queryHint="Country name"
         app:layout_constraintTop_toTopOf="parent"
         app:layout_constraintLeft_toLeftOf="parent" />
